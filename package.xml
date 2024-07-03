@@ -3,9 +3,9 @@
 <package format="3">
   <name>odom_republisher</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="jenjen.chung88@gmail.com">uqjchun2</maintainer>
-  <license>TODO: License declaration</license>
+  <description>METR4202 Prac 2</description>
+  <maintainer email="jenjen.chung@uq.edu.au">uqjchun2</maintainer>
+  <license>Apache2.0</license>
 
   <depend>rclpy</depend>
   <depend>nav_msgs</depend>
